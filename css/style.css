@@ -11662,3 +11662,12 @@ figure.highlight .section {
     padding: 1.5rem 1rem;
   }
 }
+body {
+  background: url("//w.wallhaven.cc/full/pk/wallhaven-pkvw9p.jpg") no-repeat center;
+  background-size: cover;
+}
+.card,
+.navbar,
+.footer {
+  opacity: 0.875 !important;
+}
